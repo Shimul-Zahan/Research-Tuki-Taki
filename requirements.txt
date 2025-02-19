@@ -1,0 +1,9 @@
+ipykernel
+tqdm
+numpy
+torch
+torchvision
+medmnist
+pandas
+matplotlib
+seaborn
